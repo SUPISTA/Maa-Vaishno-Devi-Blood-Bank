@@ -650,7 +650,7 @@ header .header-bottom .navbar .navbar-collapse li {
     padding: 10px 30px;
 }
 
-.blood-donation .error-message {
+.blood-donation .error-message1 {
     display: none;
     color: #fff;
     background: #ed3c0d;
@@ -659,7 +659,25 @@ header .header-bottom .navbar .navbar-collapse li {
     font-weight: 600;
 }
 
-.blood-donation .sent-message {
+.blood-donation .sent-message1 {
+    display: none;
+    color: #fff;
+    background: #18d26e;
+    text-align: center;
+    padding: 15px;
+    font-weight: 600;
+}
+
+.blood-donation .error-message2 {
+    display: none;
+    color: #fff;
+    background: #ed3c0d;
+    text-align: center;
+    padding: 15px;
+    font-weight: 600;
+}
+
+.blood-donation .sent-message2 {
     display: none;
     color: #fff;
     background: #18d26e;
