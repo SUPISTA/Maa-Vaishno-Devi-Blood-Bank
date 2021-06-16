@@ -392,6 +392,9 @@ header .header-bottom .navbar .navbar-collapse li {
     .navbar {
         padding: 0px; 
     } 
+    header .header-top .col-det .ulright li a {
+        font-size: 0.8rem; 
+    }
     header .header-bottom img {
         height: 60px; 
     } 
@@ -711,7 +714,7 @@ header .header-bottom .navbar .navbar-collapse li {
 /* ======================================================================================== */
 .blog-container {
     padding: 50px;
-    min-height: 100vh;
+    min-height: 50vh;
     padding-bottom: 100px; 
 }
   
